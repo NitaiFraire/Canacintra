@@ -1,0 +1,12 @@
+nav {
+    border-bottom: 4px solid #DD2651;
+}
+
+.products {
+    max-height: 170px;
+    overflow-y: scroll;
+}
+
+h6 {
+    color: #07204D;
+}

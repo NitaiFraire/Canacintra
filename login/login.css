@@ -1,0 +1,12 @@
+body {
+    background-color: #F6F6F6;
+}
+
+.login {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.login a {
+    color: #07204D;
+}
